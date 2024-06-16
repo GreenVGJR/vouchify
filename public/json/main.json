@@ -1,0 +1,106 @@
+[{
+   "kategori": "promo",
+   "list_voucher": [{
+      "id": 1,
+      "title": "VOUCHER<br>35% OFF",
+      "from": "27 Maret 2024 12:00",
+      "to": "31 Maret 2024 23:59",
+      "max_use": "35RB",
+      "require": "all|100RB|void"
+   },
+   {  
+      "id": 2,
+      "title": "VOUCHER<br>25% OFF",
+      "from": "27 Maret 2024 12:00",
+      "to": "31 Maret 2024 23:59",
+      "max_use": "50RB",
+      "require": "all|200RB|void"
+   }]
+},
+{
+   "kategori": "special promo",
+   "list_voucher": [{
+      "id": 1,
+      "title": "PROMO SEMUA Foodcher | Potogan Rp. 25RB",
+      "from": "27 Maret 2024 12:00",
+      "to": "1 April 2024 23:59",
+      "note": "Promo berlaku pada pengguna setia Vocheers!",
+      "require": "all|200RB|void",
+      "path_image": "image/top-view-arrangement-christmas-food-with-copy-space.jpg"
+   },
+   {  
+      "id": 2,
+      "title": "Promo Semua Kategori Lifestyle | Diskon 10%",
+      "from": "27 Maret 2024 12:00",
+      "to": "1 April 2024 23:59",
+      "note": "Promo berlaku pada pengguna setia Vocheers!",
+      "require": "all|100RB|void",
+      "path_image": "image/passport-tourist-supplies-around-camera.jpg"
+   },
+   {  
+      "id": 3,
+      "title": "Promo Semua Kategori Elektrik | Potongan RP. 10RB",
+      "from": "27 Maret 2024 12:00",
+      "to": "1 April 2024 23:59",
+      "note": "Promo berlaku pada pengguna setia Vocheers!",
+      "require": "all|100RB|void",
+      "path_image": "image/credit-card-phone-mock-up.jpg"
+   }]
+},
+{
+   "kategori": "makanan",
+   "list_voucher": [{
+      "id": 1,
+      "title": "VOUCHER<br>25% OFF",
+      "from": "27 Maret 2024 12:00",
+      "to": "1 April 2024 23:59",
+      "max_use": "25RB",
+      "require": "all|200RB|void"
+   },
+   {
+      "id": 2,
+      "title": "VOUCHER<br>15% OFF",
+      "from": "27 Maret 2024 12:00",
+      "to": "1 April 2024 23:59",
+      "max_use": "15RB",
+      "require": "all|200RB|void"
+   }]
+},
+{
+   "kategori": "gaya hidup",
+   "list_voucher": [{      
+      "id": 1,
+      "title": "VOUCHER<br>50% OFF",
+      "from": "27 Maret 2024 12:00",
+      "to": "1 April 2024 23:59",
+      "max_use": "25RB",
+      "require": "all|200RB|void"
+   },
+   {
+      "id": 2,
+      "title": "VOUCHER<br>15% OFF",
+      "from": "27 Maret 2024 12:00",
+      "to": "1 April 2024 23:59",
+      "max_use": "15RB",
+      "require": "all|200RB|void"
+   }]
+},
+{
+   "kategori": "elektrik",
+   "list_voucher": [{
+      "id": 1,
+      "title": "VOUCHER<br>25% OFF",
+      "from": "27 Maret 2024 12:00",
+      "to": "1 April 2024 23:59",
+      "max_use": "25RB",
+      "require": "all|200RB|void"
+   },
+   {
+      "id": 2,
+      "title": "VOUCHER<br>15% OFF",
+      "from": "27 Maret 2024 12:00",
+      "to": "1 April 2024 23:59",
+      "max_use": "15RB",
+      "require": "all|200RB|void"
+   }]
+}]
